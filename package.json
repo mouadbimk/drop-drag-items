@@ -1,6 +1,6 @@
 {
   "name": "drop-drag-items",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Small Package to Add effect Drop & Drag To Items",
   "keywords": [
     "drop",
@@ -20,8 +20,12 @@
   },
   "license": "GPL-3.0",
   "author": "Mouad Bimekliouen",
-  "type": "commonjs",
-  "main": "index.js",
+  "type": "module",
+  "main": "src/index.js",
+  "files":[
+    "dist",
+    "src"
+  ],
   "scripts": {
     "publish": "npm publish",
     "build": "webpack",
