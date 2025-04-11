@@ -8,5 +8,5 @@ You can install it via npm:
 
 ```bash
 npm install drop-drag-items
-```
+
 #How To Use
