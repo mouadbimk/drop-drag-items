@@ -10,4 +10,4 @@ You can install it via npm:
 npm install drop-drag-items
 ```
 # How To Use
-- after install package add this line in top tag <strong> '</body>' </strong>
+- after install package add this line in top tag <strong> "</body>" </strong>
