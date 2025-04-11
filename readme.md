@@ -29,6 +29,6 @@ npm install drop-drag-items
 # Additional Notes
 - Ensure that the **drop-drag-items.min.js** file is located correctly in the **node_modules** folder relative to your HTML file.
 - The package automatically detects elements with the appropriate classes to enable drag-and-drop interactions.
--You can style the draggable and droppable elements using custom CSS to fit your UI needs.
+- You can style the draggable and droppable elements using custom CSS to fit your UI needs.
 
 
