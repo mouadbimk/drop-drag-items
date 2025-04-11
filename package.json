@@ -1,0 +1,39 @@
+{
+  "name": "drop-drag-items",
+  "version": "1.0.4",
+  "description": "Small Package to Add effect Drop & Drag To Items",
+  "keywords": [
+    "drop",
+    "drag",
+    "drop-and-drag",
+    "items",
+    "interaction",
+    "ui"
+  ],
+  "homepage": "https://github.com/mouadbimk/drop-drag-items#readme",
+  "bugs": {
+    "url": "https://github.com/mouadbimk/drop-drag-items/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouadbimk/drop-drag-items.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Mouad Bimekliouen",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm publish",
+    "build": "webpack",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-loader": "^10.0.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
+  }
+}
