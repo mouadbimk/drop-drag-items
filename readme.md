@@ -11,3 +11,10 @@ npm install drop-drag-items
 ```
 # How To Use
 - after install package add this line in top tag <strong> "</body>" </strong>
+```js
+<script src="./node_modules/drop-drag-items/dist/drop-drag-items.min.js"></script>
+```
+- and in your js file add
+  ```js
+   DropDrag.enableDraggedItems();
+  ```
